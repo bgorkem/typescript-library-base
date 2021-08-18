@@ -1,5 +1,6 @@
 {
-  "name": "my-lib",
+  "name": "typescript-library-base",
+  "description": "starter project for a typescript library",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
